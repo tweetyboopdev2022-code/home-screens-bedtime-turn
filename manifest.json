@@ -1,7 +1,7 @@
 {
   "id": "bedtime-turn",
   "name": "Bedtime Turn",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Whose turn it is to put Nora to bed: a 2-nights-each rotation with the next few nights, and tap to swap tonight.",
   "author": "Tanya",
   "license": "MIT",
